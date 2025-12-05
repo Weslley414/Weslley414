@@ -57,19 +57,20 @@ Quero crescer profissionalmente junto ao time, aprimorando minhas habilidades e 
 ### ⚙️ **Back-end**
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,prisma" />
 
-<!-- Ícone Fastify customizado -->
-<img height="48" src="https://raw.githubusercontent.com/fastify/graphics/master/fastify-logo-white.png"/>
+<!-- Fastify (PNG visível) -->
+<img height="48" src="https://fastify.dev/img/logos/fastify-white.png" />
 
 ### 🛠️ **Ferramentas**
 <img src="https://skillicons.dev/icons?i=git,github,docker" />
 
-<!-- Ícone Insomnia customizado -->
-<img height="48" src="https://raw.githubusercontent.com/Kong/insomnia/develop/packages/insomnia/assets/icon.png"/>
+<!-- Insomnia (PNG visível) -->
+<img height="48" src="https://raw.githubusercontent.com/Kong/insomnia/master/packages/insomnia-app/app/ui/images/insomnia-logo.png" />
 
 ### 🧩 **Design**
 <img src="https://skillicons.dev/icons?i=figma" />
 
 </div>
+
 
 
 ---
