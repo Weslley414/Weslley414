@@ -2,7 +2,7 @@
   
   <img src="https://avatars.githubusercontent.com/u/162639845?v=4" width="150" style="border-radius: 50%">
 
-  # 👋 Hey! Eu sou o **Weslley**
+  # 👋 Hey! Eu sou o **José Weslley**
   ### Desenvolvedor Front-end • UI/UX Designer • Estudante de Inteligência Artificial
   
   <p>22 anos • Rio de Janeiro, Brasil 🇧🇷</p>
