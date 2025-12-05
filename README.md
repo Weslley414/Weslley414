@@ -3,7 +3,7 @@
   <img src="https://avatars.githubusercontent.com/u/162639845?v=4" width="150" style="border-radius: 50%">
 
   # 👋 Hey! Eu sou o **José Weslley**
-  ### Desenvolvedor Front-end • UI/UX Designer • Estudante de Inteligência Artificial
+  ### 💻 Desenvolvedor Front-end • 🎨 UI/UX Designer • 🤖 Estudante de Inteligência Artificial
   
   <p>22 anos • Rio de Janeiro, Brasil 🇧🇷</p>
 
@@ -13,7 +13,8 @@
 
 ## 🚀 Sobre Mim
 
-Sou formado em **Análise e Desenvolvimento de Sistemas**, apaixonado por design, tecnologia e por transformar ideias em interfaces funcionais.  
+Sou formado em **Análise e Desenvolvimento de Sistemas**, apaixonado por design, tecnologia e por transformar ideias em interfaces funcionais e intuitivas.
+
 Atualmente focado em:
 
 - 🎨 **UI/UX Design**
@@ -25,14 +26,59 @@ Gosto de aprender criando e evoluir um pouco todos os dias.
 
 ---
 
-## 🧠 Tecnologias que utilizo
+## 🎯 Meus Objetivos
 
-<div align="left">
+Integrar uma equipe de tecnologia aplicando minha vivência em **Análise e Desenvolvimento de Sistemas**, unindo visão de design e prática em prototipagem.  
+Busco transformar **requisitos de negócio em interfaces funcionais e intuitivas**, entregando soluções criativas e eficientes.  
+Quero crescer profissionalmente junto ao time, aprimorando minhas habilidades e contribuindo com comprometimento e qualidade.
 
-- **Front-end:** HTML, CSS, JavaScript  
-- **Back-end:** Node.js, Fastify, NestJS  
-- **Ferramentas:** Git, GitHub, Insomnia, Docker  
-- **Design:** Figma, prototipação e usabilidade  
+---
+
+## 🏅 Certificações
+
+### 🎓 Formação & Cursos  
+- 🖥️ **Senac – 2018** — Informática Básica  
+- 📊 **Sest Senat – 2023** — PowerPoint Básico  
+- 📈 **Sest Senat – 2023** — Excel Intermediário  
+- 🌐 **Sest Senat – 2023** — WebDesign I  
+- 🎨 **Udemy – 2025** — Figma: UI Design do Zero ao Profissional  
+- 💻 **Senac – 2025** — Desenvolvedor Front-end  
+- 🧩 **Senac – 2025** — Designer de Interfaces Web  
+
+---
+
+## 🧠 Tecnologias & Ferramentas
+
+<div align="center">
+
+### 🎨 **Front-end**
+<img src="https://skillicons.dev/icons?i=html,css,js,react,ts" />
+
+### ⚙️ **Back-end**
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,fastify,prisma" />
+
+### 🛠️ **Ferramentas**
+<img src="https://skillicons.dev/icons?i=git,github,docker,insomnia" />
+
+### 🧩 **Design**
+<img src="https://skillicons.dev/icons?i=figma" />
+
+</div>
+
+---
+
+## 💡 Minhas Especialidades
+
+<div align="center">
+
+### 🎨 **UI • UX Design**
+Criação de interfaces modernas, design system, usabilidade e prototipação.
+
+### 💻 **Front-end Development**
+Construção de interfaces responsivas, performáticas e acessíveis.
+
+### 🤖 **Inteligência Artificial**
+Estudos focados em automação e produtividade aplicada ao desenvolvimento.
 
 </div>
 
@@ -41,46 +87,33 @@ Gosto de aprender criando e evoluir um pouco todos os dias.
 ## 📌 Repositórios Importantes
 
 ### ⭐ **Estudos**
-Repositório mais completo do meu aprendizado atual.  
+📘 Meu repositório mais completo de aprendizado:  
 🔗 https://github.com/Weslley414/Estudos
 
-### 📁 Outros projetos
-- **Gest-oEscolar2.0** — Sistema de Gestão Escolar  
-- **microservi-os** — Estudo de microserviços  
-- **Nest-crud-cursos** — CRUD completo com NestJS  
-- **fastify-crud** — API com Fastify  
-- **Projeto-integrador-front-end** — Projeto acadêmico  
-- **primeiroprojetonovo** — Primeiras aplicações  
-- **Bruno** — Repositório de desafios
-
 ---
 
-## 📊 Estatísticas
+### 📁 Outros projetos relevantes
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Weslley414&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Weslley414&layout=compact&theme=tokyonight"/>
-</div>
-
----
-
-## 🐍 Snake (contribuições animadas)
-<div align="center">
-  <img src="https://github.com/Weslley414/Weslley414/blob/output/github-contribution-grid-snake.svg">
-</div>
+- 🎓 **Gest-oEscolar2.0** — Sistema de Gestão Escolar  
+- 🔧 **microservi-os** — Estudo de microserviços  
+- 📚 **Nest-crud-cursos** — CRUD completo com NestJS  
+- ⚡ **fastify-crud** — API com Fastify  
+- 🧩 **Projeto-integrador-front-end** — Projeto acadêmico  
+- 🌱 **primeiroprojetonovo** — Primeiras aplicações  
+- 🧑‍💻 **Bruno** — Repositório de desafios
 
 ---
 
 ## 🌐 Contato
 
-📧 Email: josewesleybispo7@gmail.com  
-🔗 LinkedIn: www.linkedin.com/in/jose-wesley 
+📧 **Email:** josewesleybispo7@gmail.com  
+🔗 **LinkedIn:** www.linkedin.com/in/jose-wesley  
 
 ---
 
 <div align="center">
   
 ✨ Obrigado por visitar meu perfil!  
-Sempre aprendendo e evoluindo. ✨
+Sempre aprendendo e evoluindo. ✨  
 
 </div>
