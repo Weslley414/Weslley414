@@ -1,6 +1,5 @@
 <div align="center">
   
-  <img src="https://avatars.githubusercontent.com/u/162639845?v=4" width="150" style="border-radius: 50%">
 
   # 👋 Hey! Eu sou o **José Weslley**
   ### 💻 Desenvolvedor Full-stack • 🎨 UI/UX Designer • 🤖 Estudante de Inteligência Artificial
